@@ -3,3 +3,4 @@ A modular, factory-based projectile system combining UnityEngine.Pool and the Fl
 
 # REQUIREMENTS
 
+* UnityEngine.Pool library
